@@ -8,4 +8,5 @@ Verde
 Vermelho
 Preto
 Branco
+Lilás
 
