@@ -1,3 +1,6 @@
+Alteração de cores: Removi a cor "Vermelho", acrescentei Verde Oliva. 
+Feito por jacksonL
+
 Primeiro arquivo de teste. 
 Feito no Master.
 
@@ -10,8 +13,8 @@ Azul
 Amarelo
 Violeta
 Verde
-Vermelho
 Preto
 Branco
 Lilás
+Oliva
 
