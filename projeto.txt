@@ -1,0 +1,9 @@
+Primeiro arquivo de teste. 
+Feito no Master.
+Lista de cores:
+Azul
+Amarelo
+Verde
+Vermelho
+Preto
+Branco
