@@ -3,7 +3,9 @@ Feito no Master.
 Lista de cores:
 Azul
 Amarelo
+Violeta
 Verde
 Vermelho
 Preto
 Branco
+
