@@ -13,6 +13,8 @@ Azul
 Amarelo
 Violeta
 Verde
+Indigo
+Vermelho
 Preto
 Branco
 Lilás
