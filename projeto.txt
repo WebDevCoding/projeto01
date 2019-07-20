@@ -1,5 +1,9 @@
 Primeiro arquivo de teste. 
 Feito no Master.
+
+Alteração: Feito por Jack01.
+Adicionei a cor: Ciano.
+
 Lista de cores:
 Laranja
 Azul
